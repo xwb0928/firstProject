@@ -4,6 +4,7 @@ cd
 
 add
 
+<<<<<<< HEAD
 asdfsafs
 
 sdfff
@@ -11,3 +12,8 @@ sadfasdf
 
 dde
 
+
+dde
+
+
+add change
